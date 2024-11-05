@@ -9,12 +9,14 @@
 Installez les dépendances nécessaires en exécutant la commande suivante :
 ```bash
 npm install
+```
 
 ### Étape 2 : Compilation du projet
 Pour compiler le projet, utilisez la commande :
 
 ```bash
 npm run build
+```
 
 Cela génère une version optimisée du projet, prête pour la production.
 
@@ -23,5 +25,6 @@ Pour surveiller les changements de fichiers et compiler automatiquement pendant 
 
 ```bash
 npm run watch
+```
 
 Cette commande est utile pour un développement actif, car elle reconstruit les fichiers à chaque modification.
