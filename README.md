@@ -6,6 +6,12 @@
 ## Étapes d'installation et de démarrage
 
 ### Étape 1 : Installation des dépendances
+
+Allez dans le dossier du projet 
+```bash
+cd chemin_du_projet
+```
+
 Installez les dépendances nécessaires en exécutant la commande suivante :
 ```bash
 npm install
