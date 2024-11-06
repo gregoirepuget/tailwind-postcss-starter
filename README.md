@@ -11,7 +11,13 @@ Installez les dépendances nécessaires en exécutant la commande suivante :
 npm install
 ```
 
-### Étape 2 : Compilation du projet
+### Étape 2 : Installer Postcss si besoin
+
+```bash
+npm i postcss
+```
+
+### Étape 3 : Compilation du projet
 Pour compiler le projet, utilisez la commande :
 
 ```bash
@@ -20,7 +26,7 @@ npm run build
 
 Cela génère une version optimisée du projet, prête pour la production.
 
-### Étape 2bis : Surveillance et compilation en continu
+### Étape 3bis : Surveillance et compilation en continu
 Pour surveiller les changements de fichiers et compiler automatiquement pendant le développement :
 
 ```bash
